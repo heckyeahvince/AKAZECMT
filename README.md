@@ -1,7 +1,5 @@
 # Consensus-based Matching and Tracking using AKAZE features Android
 
-cmt-akaze-melvincabatuan created by Classroom for GitHub
-
 - Original algorithm by Georg Nebehay and Roman Pflugfelder, "Clustering of Static-Adaptive Correspondences for Deformable Object Tracking", CVPR 2015
 - This exercise is inspired by Jesus Ayuso's work here: https://github.com/ayuso2013/OpenCVSamples  (in Eclipse)
 
@@ -177,31 +175,3 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
 ```
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/2ae77a9e2f4ed24ed9bf047e52354411
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/cmt-akaze-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-## Videocapture:
-
-[![screenshot](screenshot_001.png)](https://youtu.be/jDjaeb_iNcI)
-
-"*The best performance improvement is the transition from the nonworking state to the working state.*" -  J. Osterhout
